@@ -24,8 +24,8 @@ ijkprof/android-ndk-profiler/
 # generated files
 bin/
 gen/
-libs/
-obj/
+#libs/
+#obj/
 ijkmedia/ijkplayer/ijkversion.h
 
 # Local configuration file (sdk path, etc)
